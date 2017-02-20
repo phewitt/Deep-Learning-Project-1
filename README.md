@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 <h1>Udacity Deep Learning Nano Degree</br> <b>Project 1</b></h1>
-=======
-<h1>Udacity Deep Learning Nano Degree Project 1</h1>
->>>>>>> master
 
 
 <h2>Description</h2>
